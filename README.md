@@ -14,3 +14,7 @@
 
 4.SNAPSHOT - CLONING
 
+![snapshot](https://user-images.githubusercontent.com/114140750/218519021-9c943898-a6e6-416c-9bf2-79bf7896e3ab.jpg)
+
+5.VIRTUAL MACHINE USING CLOUD-Azure
+

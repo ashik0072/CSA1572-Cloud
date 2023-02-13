@@ -6,3 +6,7 @@
 
 2.VIRTUAL MACHINE USING VMWARE - UBUNTU iso
 
+![vmware](https://user-images.githubusercontent.com/114140750/218518222-84ad0ee9-5122-42fe-98f2-fc5d3d642607.jpg)
+
+3.VIRTUAL HARDDISK - VMWARE
+

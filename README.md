@@ -4,3 +4,5 @@
 
 ![zoho](https://user-images.githubusercontent.com/114140750/218517285-63d81e87-fa41-48b4-9f3e-ea75fb1efd40.jpg)
 
+2.VIRTUAL MACHINE USING VMWARE - UBUNTU iso
+

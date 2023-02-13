@@ -10,3 +10,7 @@
 
 3.VIRTUAL HARDDISK - VMWARE
 
+![edit hardware](https://user-images.githubusercontent.com/114140750/218518701-c6a71f92-c52c-4a76-876b-54972597c274.jpg)
+
+4.SNAPSHOT - CLONING
+
